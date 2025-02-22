@@ -8,6 +8,8 @@ elseif gameId == 1 then
     -- Add your code for this game here
 elseif gameId == 18458237069 then
 print("this game does not have an anticheat")
+elseif gameId == 8737899170 then
+print("this game has an anticheat but you can still fly and noclip safely")
 else
   
     print("this game has yet to be tested please refer to our discord. dsc.gg/eatass")
